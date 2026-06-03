@@ -1,6 +1,6 @@
 <div align="center">
   <img src="jowa_logo.png" alt="jowagpt2 Logo" width="450">
-  <h1>jowagpt2</h1>
+  <h1>jowa-footall-ai</h1>
 </div>
 
 jowa_football_ai_v2 is based on DQN, unlike V1 which is based on Q-learning.
